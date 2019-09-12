@@ -37,5 +37,6 @@ public class AtomikosTest {
 
         orderInfoService.save(orderInfo);
         System.out.println("1111111111111111111");
+        System.out.println("222222222222222222222");
     }
 }
