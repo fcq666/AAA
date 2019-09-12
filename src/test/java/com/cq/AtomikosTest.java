@@ -36,5 +36,6 @@ public class AtomikosTest {
         orderInfo.setUserid("zhangsan");
 
         orderInfoService.save(orderInfo);
+        System.out.println("1111111111111111111");
     }
 }
